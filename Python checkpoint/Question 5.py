@@ -9,4 +9,5 @@ arr = np.array([[0, 1], [2, 3], [4, 5]])
 
 list = arr.tolist()
 print ("Array: ", arr)
+
 print ("list: ", list)
